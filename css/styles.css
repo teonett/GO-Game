@@ -1,0 +1,48 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    color: #ffffff;
+    text-align: center;
+    font-size: xx-large;
+    background-color: #006bb3;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
+footer {
+    position: fixed;
+    bottom:0px;
+    color: #ffffff;
+    background-color: #006bb3;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    text-align: center;
+    font-size: large;
+}
+
+canvas{
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+a {
+    color: #006bb3;
+}
+
+p {
+    text-align: justify;
+    padding-top: 10ppx;
+    padding-left: 70px;
+    word-wrap: break-word;
+    width: 48em;
+}
